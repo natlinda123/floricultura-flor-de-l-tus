@@ -12,5 +12,8 @@ section{
     display: flex;
     justify-items: center;
     justify-content: center;
-    color: rgb(26, 27, 27);
+  
+}
+p{
+    color: black;
 }
