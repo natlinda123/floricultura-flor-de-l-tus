@@ -1,7 +1,12 @@
 body{
     background-color: rgba(248, 240, 247, 0.281);
     color: rgb(241, 235, 235);
-}
+    }
+    header{
+        color: deeppink;
+        text-align: center;
+    }
+    
 h1{
     color: rgba(245, 238, 238, 0.479);
 }
