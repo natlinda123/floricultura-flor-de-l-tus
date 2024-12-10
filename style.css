@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(255, 0, 212, 0.281);
+    background-color: rgba(248, 240, 247, 0.281);
     color: rgb(241, 235, 235);
 }
 h1{
@@ -12,4 +12,5 @@ section{
     display: flex;
     justify-items: center;
     justify-content: center;
+    color: aliceblue;
 }
