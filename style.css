@@ -1,9 +1,9 @@
 body{
     background-color: rgba(255, 0, 212, 0.281);
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 h1{
-    color: rgba(255, 166, 0, 0.479);
+    color: rgba(255, 255, 255, 0.479);
 }
 section{
     background: rgb(255, 255, 255);
